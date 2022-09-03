@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is [Tatiana Kravchenko](https://www.linkedin.com/in//tati-kravchenko/), I am a QA Manual and Automation Engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55">
 
- - 🐍 Deep understanding of Software Development Life Cycle (SDLC), Software Testing Life Cycle (STLC) and Defect Life Cycle including methodologies like Agile   and Waterfall and Scaled Agile Framework (SAFe).
+ - ⚛️ Deep understanding of Software Development Life Cycle (SDLC), Software Testing Life Cycle (STLC) and Defect Life Cycle including methodologies like Agile   and Waterfall and Scaled Agile Framework (SAFe).
  
 -  🖱️ Actively involved in Agile/Scrum Methodology in the project from requirements through the delivery of the project.
 -  🥇  Proficient knowledge in various types of testing like Smoke, Regression, Sanity, and End-to-End. 
