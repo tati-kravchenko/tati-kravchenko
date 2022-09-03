@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-
+ ![sentiment-870x450](https://user-images.githubusercontent.com/106053124/171986413-92db32fa-3bb6-417e-a4de-a7633142704a.jpeg)
 
 
  #### :hammer_and_wrench: Languages and Tools :
